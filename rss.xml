@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[divsuppe]]></title>
         <description><![CDATA[divsuppe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/divsuppe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 06:40:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 06:40:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/divsuppe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec70b563-e4d0-40f3-9d5e-458a6292c53d.jpg">]]></description>
-            <link>undefinedcapturing-waves/index.html</link>
+            <link>https://thegrid.ai/divsuppe/capturing-waves/index.html</link>
             <guid isPermaLink="false">e5785c16-39c3-48d2-a37c-e42e78d24871</guid>
+            <pubDate>Wed, 30 Mar 2016 06:40:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e889c5c-c2a7-4453-9061-572dab1be106.jpg">]]></description>
+            <link>https://thegrid.ai/divsuppe/workflow-essentials/index.html</link>
+            <guid isPermaLink="false">dcf5309c-7a3b-4510-a294-040016a44e6d</guid>
             <pubDate>Wed, 30 Mar 2016 06:40:03 GMT</pubDate>
         </item>
     </channel>
